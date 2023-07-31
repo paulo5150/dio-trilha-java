@@ -8,7 +8,7 @@ public class RepeticaoForArrays {
         }
         System.out.println("\nModo mais apropriado para Arrays:\n");
 
-        for(String aluno:alunos){// Modo simplificado do laço "for" para Arrays(Pilhas)
+        for(String aluno:alunos){// Modo simplificado do laço "for each" para Arrays(Pilhas)
             System.out.println("O nome do aluno é: " + aluno);
         }
     }
